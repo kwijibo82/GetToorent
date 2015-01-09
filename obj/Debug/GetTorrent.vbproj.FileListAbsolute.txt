@@ -1,0 +1,1 @@
+c:\users\xavi\documents\visual studio 2013\Projects\GetTorrent\GetTorrent\bin\Debug\GetTorrent.exe.config
